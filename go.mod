@@ -1,4 +1,4 @@
-module uniclip
+module github.com/angelbirth/uniclip
 
 go 1.15
 
